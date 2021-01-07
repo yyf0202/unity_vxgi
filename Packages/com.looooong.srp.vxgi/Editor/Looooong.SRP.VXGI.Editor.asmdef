@@ -1,0 +1,17 @@
+{
+    "name": "Looooong.SRP.VXGI.Editor",
+    "references": [
+        "GUID:2518aed04e27c9a489552a3a49b8243f"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
